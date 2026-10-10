@@ -38,4 +38,6 @@ Este projeto consiste no desenvolvimento de um sistema web para uma Organizaçã
 
 Os arquivos HTML devem ser verificados com o validador oficial do W3C antes da entrega.
 
+## envio individual 
 
+o projeto sera entregue individual, por os membros do grupo serem de salas diferentes.
